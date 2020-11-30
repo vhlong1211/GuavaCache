@@ -9,6 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Main {
 /*Chinh sua tren may client*/
+    int n=2;
     public static void main(String[] args){
         //int numb;
         //ArrayList<Integer> primes=new ArrayList<>();
